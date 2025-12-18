@@ -2,5 +2,6 @@ set2.png - Зверополис 2
 *
 set1.png - Новый Год
 set3.png - Гора
+set6.png - Майнкрафт
 set4.png - Губка Боб
-set5.png - Майнкрафт
+set5.png - Spider Man
